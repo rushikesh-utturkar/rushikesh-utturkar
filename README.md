@@ -75,7 +75,7 @@ Transforming raw data into scalable, reliable, and cloud-native data solutions.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikesh-utturkar\&show_icons=true)
 
 ---
 
