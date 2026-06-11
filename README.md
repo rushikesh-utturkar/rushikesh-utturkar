@@ -90,8 +90,8 @@ Transforming raw data into scalable, reliable, and cloud-native data solutions.
 
 ### 📫 Connect With Me
 
-* LinkedIn: (https://www.linkedin.com/in/rushikeshutturkar/)
-* GitHub: [Add Your GitHub URL]
+* LinkedIn: https://www.linkedin.com/in/rushikeshutturkar/
+* GitHub: https://github.com/rushikesh-utturkar/rushikesh-utturkar/
 * Portfolio: [Add Your Portfolio URL]
 
 ---
