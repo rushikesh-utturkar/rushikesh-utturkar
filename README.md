@@ -90,7 +90,7 @@ Transforming raw data into scalable, reliable, and cloud-native data solutions.
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn URL]
+* LinkedIn: (https://www.linkedin.com/in/rushikeshutturkar/)
 * GitHub: [Add Your GitHub URL]
 * Portfolio: [Add Your Portfolio URL]
 
